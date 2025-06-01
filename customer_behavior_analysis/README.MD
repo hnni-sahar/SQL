@@ -51,9 +51,3 @@ The dataset includes demographic, income, purchase, and loyalty-related attribut
 
 - [Customer Purchasing Behaviors – Kaggle](https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors)
 
----
-
-## 📸 Optional Add-on
-
-If available, you can include Power BI or Excel dashboard screenshots in a `screenshots/` folder to enhance visualization.
-
